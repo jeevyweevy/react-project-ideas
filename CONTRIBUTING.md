@@ -31,4 +31,4 @@ This document was adapted from the open-source contribution guidelines for [Face
 
 ## Contributors
 We would like to thank the following contributors:
-- [List of Contributors](https://github.com/jeevyweevy/react-project-ideas/blob/Open-Source-Contribution/CONTRIBUTORS.md) of the document
+- [List of Contributors](https://github.com/jeevyweevy/react-project-ideas/blob/Open-Source-Contribution/CONTRIBUTORS.md).
