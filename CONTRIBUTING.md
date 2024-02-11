@@ -30,4 +30,5 @@ By contributing, you agree that your contributions will be licensed under its MI
 This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
 
 ## Contributors
-These are the links to the [contributors](https://github.com/jeevyweevy/react-project-ideas/blob/Open-Source-Contribution/CONTRIBUTORS.md) of the document
+We would like to thank the following contributors:
+- [List of Contributors](https://github.com/jeevyweevy/react-project-ideas/blob/Open-Source-Contribution/CONTRIBUTORS.md) of the document
