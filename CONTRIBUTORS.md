@@ -1,5 +1,6 @@
 # Contributors
-- Sanjeev Kamath
+- Contributor 1 (@...)
+- Contributor 2 (@...)
 
 John Doe (@johndoe)
 Jane Smith (@JaneSmith)
